@@ -208,9 +208,9 @@ function App() {
             key={indice} 
             time={time} 
             colaboradores={colaboradores.filter(colaborador => colaborador.time === time.nome)}  
-            aoDeletar={() => {
+            aoDeletar={
               deletarColaborador()
-            }}
+            }
           />
         )}
       </section>
