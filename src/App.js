@@ -224,7 +224,7 @@ function App() {
   	
   function mudarCorDoTime(cor, nome) {
     setTimes(times.map(time => {
-      if (time.nome === nome) {
+      if (time.id === nome) {
         time.cor = cor;
       }
       return time
