@@ -1,4 +1,4 @@
-#Projeto Organo
+<h1>Projeto Organo</h1>
 
 <h3>Este projeto é apenas algo criado para o meu próprio aprendizado e entendimento dos seguintes tópicos</h3>
 <ul>
@@ -8,8 +8,8 @@
 </ul>
 
 <h3>Caso queira usar o projeto, utilize os seguintes comandos</h3>
-<ol>
-    <li>git clone https://github.com/Cadub/React_organo.git</li>
-    <li>npm install</li>
-    <li>npm start</li>
-</ol>
+
+    git clone https://github.com/Cadub/React_organo.git
+    npm install
+    npm start
+
