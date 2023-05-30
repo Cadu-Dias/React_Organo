@@ -59,7 +59,7 @@ const Formulario = ({aoCadastrar, times, cadastrarTime}) => {
                 <h2>Preencha os dados para criar um novo time</h2>
                 <Campo
                     obrigatorio
-                    type='color'
+                    type='text'
                     label='Nome'
                     placeholder='Digite o nome do Time '
                     valor={nomeTime}
